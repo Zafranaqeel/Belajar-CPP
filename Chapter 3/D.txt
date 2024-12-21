@@ -1,0 +1,38 @@
+PROGRAM
+int counter = 0;
+while (counter < 4) {
+    cout << "C++" << endl;
+    counter += 1;
+}
+
+OUTPUT: 4
+
+
+PROGRAM
+int counter = 1;
+while (counter < 4) {
+    cout << "C++" << endl;
+    counter += 1;
+}
+
+OUTPUT: C++ C++ C++
+
+
+PROGRAM
+int counter = 1;
+while (counter <= 4) {
+    cout << "C++" << endl;
+    counter += 1;
+}
+
+OUTPUT: C++ C++ C++ C++
+
+
+PROGRAM
+int counter = 1;
+while (counter <= 6) {
+    cout << "C++" << endl;
+    counter += 2;
+}
+
+OUTPUT: C++ C++ C++

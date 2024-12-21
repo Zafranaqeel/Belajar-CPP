@@ -1,0 +1,21 @@
+PROGRAM
+#include <iostream>
+using namespace std;
+
+int main() {
+    int x = 3, y = 4;
+
+    x -= 1;
+    y += x * 5;
+
+    cout << y << endl;
+}
+
+OUTPUT: 14
+
+
+PROGRAM YANG SAMA
+x += x;
+x *= 2;
+x = 2 * x;
+x = x + x;
