@@ -1,0 +1,2 @@
+Ulasan
+Pada soal no. 2, yang tidak sesuai sintaks adalah potongan program a. Kita tidak bisa mengisi variabel bertipe int dengan nilai dari variabel lain yang bertipe std::string.

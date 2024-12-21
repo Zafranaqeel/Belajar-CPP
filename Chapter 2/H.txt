@@ -1,0 +1,5 @@
+Ulasan
+Perubahan dari variabel y tidak berpengaruh terhadap variabel x.
+
+Anda telah menyelesaikan bab ini. Selamat! 🎉 Ayo, kita lanjut ke bab berikutnya!
+
